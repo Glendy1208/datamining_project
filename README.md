@@ -1,4 +1,4 @@
-<h1>Notebook Breast Cancer Classification</h1>
+<h1>Breast Cancer Classification</h1>
 <h3>By Kelompok 1</h3>
 
 <b>Anggota Kelompok : </b>
